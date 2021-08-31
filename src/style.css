@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background: rgb(117, 93, 93);
+    color: black;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+canvas {
+    outline: 1px solid black;
+}
